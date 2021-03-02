@@ -1,4 +1,15 @@
 .box {
   position: relative;
   background-color: white;
+
+  .footer {
+    background-color: #333333;
+    color: white;
+    text-align: center;
+
+    a{
+      cursor: pointer;
+      color: white;
+    }
+  }
 }

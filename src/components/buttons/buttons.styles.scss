@@ -2,8 +2,9 @@
   display: block;
   color: white;
   justify-content: space-between;
-  width: 450px;
-  padding: 8px 18px 6px 18px;
+  margin-top: 15px;
+  padding: 25px 18px 6px 18px;
+  height: 38px;
 
   .new-quote-button {
     cursor: pointer;
@@ -12,10 +13,17 @@
   }
 
   .tweet-button {
-
+    cursor: pointer;
+    float: left;
+    height: 38px;
+    width: 40px;
   }
 
   .tumblr-button {
-
+    cursor: pointer;
+    float: left;
+    height: 38px;
+    width: 40px;
+    margin-left: 5px;
   }
 }
