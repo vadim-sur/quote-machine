@@ -1,0 +1,21 @@
+.buttons {
+  display: block;
+  color: white;
+  justify-content: space-between;
+  width: 450px;
+  padding: 8px 18px 6px 18px;
+
+  .new-quote-button {
+    cursor: pointer;
+    float: right;
+    height: 38px;
+  }
+
+  .tweet-button {
+
+  }
+
+  .tumblr-button {
+
+  }
+}
